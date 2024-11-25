@@ -15,6 +15,14 @@ Prerequisites
 =============
 This was tested on several Windows 11 Intel-based systems.
 
+Usage
+=====
+1) Create a new folder on your machine
+2) Download the four batch scripts in the newly created folder
+3) Run each script in sequential order
+4) Start the newly created VM in VirtualBox
+5) Complete the macOS Catalina installation
+
 More information
 ================
 I created a blogpost where I elaborate on the whole process and explain how you can use this VM to create a bootable macOS installater USB-drive from Windows.
