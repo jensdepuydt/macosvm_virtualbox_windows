@@ -26,4 +26,4 @@ Usage
 More information
 ================
 I created a blogpost where I elaborate on the whole process and explain how you can use this VM to create a bootable macOS installater USB-drive from Windows.
-This can be found here:
+This can be found here: https://jensd.be/2610/windows/create-bootable-macos-installation-usb-on-windows
